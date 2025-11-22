@@ -26,11 +26,15 @@ GitHub Actions • Docker • Protobuf • Zigbuild
 
 | Project | Description | Tech |
 |-------|-----------|------|
-| [**horizon**](https://github.com/harihar-nautiyal/horizon) | Proof-of-concept RAT exploring Rust's memory safety for offensive security: async C2 server with AES-256 encryption, cross-platform agents, and in-memory execution | Rust • Tokio • aes-gcm • Serde |
+| [**userencrypt**](https://github.com/harihar-nautiyal/userencrypt) | Minecraft proxy plugin for user authentication | Kotlin |
+| [**userencrypt-paper**](https://github.com/harihar-nautiyal/userencrypt) | Minecraft server plugin for user authentication | Kotlin |
+| [**censor**](https://github.com/harihar-nautiyal/censor) | Discord chat moderation free bot | Rust |
+| [**horizon**](https://github.com/hariharnautiyal/horizon) | Proof-of-concept RAT exploring Rust's memory safety for offensive security: async C2 server with AES-256 encryption, cross-platform agents, and in-memory execution | Rust • Tokio • aes-gcm • Serde |
 | [**gradient**](https://github.com/harihar-nautiyal/gradient) | Blazing-fast CLI tool for terminal gradients & themes | Rust • clap • crossterm |
 | [**tron**](https://mc.h01.in) | High-performance networking layer with protobuf-first design | Rust • tonic • prost |
 | [**godly-adventures**](https://github.com/harihar-nautiyal/godly-adventures) | Open-world RPG framework documentation & assets | Markdown • Astro |
 | [**rbxts-react-router**](https://github.com/harihar-nautiyal/rbxts-react-router) | React-inspired routing for Roblox TypeScript | TypeScript • Roblox-TS |
+
 
 ### 🌐 Alt Experiments (hariharnautiyal)
 
