@@ -1,5 +1,5 @@
 
-<img src="https://h01.in/banner.jpg" alt="banner" width="100%"/>
+<img src="https://hariharnautiyal.com/banner.jpg" alt="banner" width="100%"/>
 
 <div align="center">
 
