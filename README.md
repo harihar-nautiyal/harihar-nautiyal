@@ -11,4 +11,5 @@ contact by [email](mailto:hariharnautiyal@outlook.com), [matrix](https://matrix.
 
 
 Always learning, testing, building stuff <br>
-Take a look yourself
+Take a look yourself <br>
+[Donate?](https://h01.in/donate)
