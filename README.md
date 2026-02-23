@@ -10,5 +10,5 @@ Free to freelance
 contact by [email](mailto:hariharnautiyal@outlook.com), [matrix](https://matrix.to/#/!zSITBh6cVNsoOoUz33EOIv577Yay4uOsOzG_wPTxLUg?via=unifwe.com), [discord](https://discord.gg/A8bCzwb5)
 
 
-Always learning, testing, building stuff
+Always learning, testing, building stuff <br>
 Take a look yourself
